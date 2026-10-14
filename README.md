@@ -4,9 +4,7 @@
 
 <table>
   <tr>
-    <!-- add assets/meme.gif, then uncomment: the card re-sizes itself to match on the next workflow run
-    <td><img src="assets/meme.gif" width="300" alt="favorite meme"/></td>
-    -->
+    <td><img src="assets/meme.gif" width="300" alt="Raj Tejashwy"/></td>
     <td><img src="assets/info-card.svg" width="420" alt="raj@tejash-veer46 neofetch: SDET at LTM, Playwright, TypeScript, Java, CI/CD"/></td>
   </tr>
 </table>
