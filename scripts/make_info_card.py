@@ -25,10 +25,10 @@ USER, HOST = "raj", "tejash-veer46"
 INFO = [
     ("OS", "Windows 11 · Ubuntu (CI runners)", 9),
     ("Host", "LTM · SDET-1", 5),
-    ("Uptime", "1.5+ yrs breaking things on purpose", 2),
+    ("Uptime", "Around 2 yrs breaking things on purpose", 2),
     ("Shell", "TypeScript · Java · SQL", 8),
     ("Stack", "Playwright · Selenium · Cucumber", 9),
-    ("Perf", "JMeter · Postman · SOAP UI", 4),
+    ("Perf", "JMeter · Postman · SOAP UI · Claude/GHCP", 4),
     ("Web", "React · Node.js · Express · Supabase", 6),
     ("CI/CD", "Jenkins · GitHub Actions · Docker", 7),
     ("Ships", "test frameworks · AI test-gen agents", 9),

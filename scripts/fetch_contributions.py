@@ -53,6 +53,11 @@ def main():
     if total is None:
         total = sum(d["count"] for d in days)
 
+    if OUT.exists():
+        prev = json.loads(OUT.read_text())
+        if prev.get("total") == total and prev.get("days") == days:
+            print(f"{USERNAME}: unchanged ({total} contributions), leaving {OUT.name} as is")
+            return
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({
         "username": USERNAME,
