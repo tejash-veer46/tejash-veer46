@@ -1,43 +1,8 @@
 {
  "username": "tejash-veer46",
- "fetched_at": "2026-10-17T13:36:54Z",
+ "fetched_at": "2026-10-18T00:51:26Z",
  "total": 115,
  "days": [
-  {
-   "date": "2025-10-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-13",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-14",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-15",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-16",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-17",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-18",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-10-19",
    "level": 0,
@@ -1857,6 +1822,11 @@
    "date": "2026-10-17",
    "level": 2,
    "count": 3
+  },
+  {
+   "date": "2026-10-18",
+   "level": 0,
+   "count": 0
   }
  ]
 }
