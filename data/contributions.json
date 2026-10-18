@@ -1,7 +1,7 @@
 {
  "username": "tejash-veer46",
- "fetched_at": "2026-10-18T00:51:26Z",
- "total": 115,
+ "fetched_at": "2026-10-18T19:53:24Z",
+ "total": 66,
  "days": [
   {
    "date": "2025-10-19",
@@ -1035,38 +1035,38 @@
   },
   {
    "date": "2026-05-13",
-   "level": 1,
-   "count": 1
+   "level": 0,
+   "count": 0
   },
   {
    "date": "2026-05-14",
-   "level": 1,
-   "count": 1
+   "level": 0,
+   "count": 0
   },
   {
    "date": "2026-05-15",
-   "level": 2,
-   "count": 2
+   "level": 1,
+   "count": 1
   },
   {
    "date": "2026-05-16",
    "level": 2,
-   "count": 3
+   "count": 2
   },
   {
    "date": "2026-05-17",
    "level": 2,
-   "count": 3
+   "count": 2
   },
   {
    "date": "2026-05-18",
-   "level": 2,
-   "count": 2
+   "level": 1,
+   "count": 1
   },
   {
    "date": "2026-05-19",
    "level": 4,
-   "count": 8
+   "count": 4
   },
   {
    "date": "2026-05-20",
@@ -1075,43 +1075,43 @@
   },
   {
    "date": "2026-05-21",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-05-22",
    "level": 2,
-   "count": 3
+   "count": 2
   },
   {
    "date": "2026-05-23",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-05-24",
    "level": 2,
-   "count": 3
+   "count": 2
   },
   {
    "date": "2026-05-25",
    "level": 4,
-   "count": 6
+   "count": 5
   },
   {
    "date": "2026-05-26",
    "level": 4,
-   "count": 5
+   "count": 4
   },
   {
    "date": "2026-05-27",
    "level": 4,
-   "count": 6
+   "count": 4
   },
   {
    "date": "2026-05-28",
    "level": 3,
-   "count": 4
+   "count": 3
   },
   {
    "date": "2026-05-29",
@@ -1120,38 +1120,38 @@
   },
   {
    "date": "2026-05-30",
-   "level": 4,
-   "count": 6
+   "level": 3,
+   "count": 3
   },
   {
    "date": "2026-05-31",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-01",
    "level": 3,
-   "count": 4
+   "count": 3
   },
   {
    "date": "2026-06-02",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-03",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-04",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-05",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-06",
@@ -1160,8 +1160,8 @@
   },
   {
    "date": "2026-06-07",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-08",
@@ -1170,13 +1170,13 @@
   },
   {
    "date": "2026-06-09",
-   "level": 3,
-   "count": 4
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-06-10",
    "level": 2,
-   "count": 3
+   "count": 2
   },
   {
    "date": "2026-06-11",
@@ -1811,17 +1811,17 @@
   {
    "date": "2026-10-15",
    "level": 4,
-   "count": 6
-  },
-  {
-   "date": "2026-10-16",
-   "level": 4,
    "count": 5
   },
   {
+   "date": "2026-10-16",
+   "level": 0,
+   "count": 0
+  },
+  {
    "date": "2026-10-17",
-   "level": 2,
-   "count": 3
+   "level": 0,
+   "count": 0
   },
   {
    "date": "2026-10-18",
