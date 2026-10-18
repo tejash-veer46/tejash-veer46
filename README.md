@@ -5,13 +5,13 @@
 <table>
   <tr>
     <td><img src="assets/meme.gif" width="300" alt="Raj Tejashwy"/></td>
-    <td><img src="assets/info-card.svg" width="420" alt="raj@tejash-veer46 neofetch: SDET at LTM, Playwright, TypeScript, Java, CI/CD"/></td>
+    <td><img src="assets/info-card.svg" width="420" alt="raj@tejash-veer46 neofetch: SDET at LTM, Playwright, TypeScript, Java, CI/CD, GHCP, Claude"/></td>
   </tr>
 </table>
 
 <a href="https://www.linkedin.com/in/raj-tejashwy-1ba788206/">LinkedIn</a> ·
 <a href="https://github.com/tejash-veer46">GitHub</a> ·
 <a href="mailto:rajtejashwy@gmail.com">Email</a> ·
-<a href="https://github.com/tejash-veer46/baFiveApplication">BaFive</a>
+<a href="https://bafive.onrender.com">BaFive</a>
 
 </div>
